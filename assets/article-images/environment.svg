@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" role="img" aria-label="Abstract environment illustration">
+  <rect width="1200" height="750" fill="#eef1e7"/>
+  <path d="M600 610C395 495 295 355 355 210c125 5 215 75 245 200 30-125 120-195 245-200 60 145-40 285-245 400z" fill="#0f766e"/>
+  <path d="M600 610V330" stroke="#f7f4ec" stroke-width="24" stroke-linecap="round"/>
+  <path d="M600 470c-80-60-135-115-165-180M600 470c80-60 135-115 165-180" fill="none" stroke="#f7f4ec" stroke-width="18" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" role="img" aria-label="Abstract educational technology illustration">
+  <rect width="1200" height="750" fill="#eef3f4"/>
+  <rect x="210" y="160" width="780" height="420" rx="28" fill="#1f2a3a"/>
+  <rect x="260" y="210" width="680" height="320" rx="12" fill="#f7f4ec"/>
+  <path d="M420 380c70-110 160-110 230 0s160 110 230 0" fill="none" stroke="#0f766e" stroke-width="34" stroke-linecap="round"/>
+  <circle cx="420" cy="380" r="26" fill="#c2410c"/>
+  <circle cx="650" cy="380" r="26" fill="#f2b84b"/>
+  <circle cx="880" cy="380" r="26" fill="#0f766e"/>
+  <rect x="360" y="610" width="480" height="32" rx="16" fill="#d7cdbb"/>
+</svg>

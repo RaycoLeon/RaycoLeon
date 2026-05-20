@@ -1,36 +1,32 @@
-# TheReadingLeon.com
+# Rayco Leon | Personal Portfolio
 
-Educational English reading website created for students.
+Personal portfolio website for Rayco Leon, English teacher, researcher and educational innovator based in the Canary Islands.
 
-## What is inside
+## About the website
 
-- A homepage with a reading library.
-- 13 complete English articles from A2-B1 to C2.
-- A "Who I Am" page for Rayco Leon.
-- A weekly reading challenge and reading journal task.
-- Static HTML and CSS, ready for GitHub Pages.
+This website presents Rayco Leon's professional profile across teaching, research, international education, educational innovation, and responsible AI use in education.
 
-## How to publish with GitHub Pages
+## Main areas
 
-1. Create a new GitHub repository.
-2. Upload all files and folders from this project.
-3. Go to `Settings` > `Pages`.
-4. Under `Build and deployment`, choose `Deploy from a branch`.
-5. Select the `main` branch and `/root`.
-6. Save and wait for GitHub to publish the site.
+- English language teaching
+- CLIL / AICLE
+- Inquiry-based learning
+- International education
+- AI literacy in education
+- Educational technology
+- Teacher training and school innovation
 
-The homepage is `index.html`.
+## Pages
 
-## Project structure
+- `index.html` — Home
+- `about.html` — Professional biography
+- `teaching.html` — Teaching profile
+- `research.html` — Research profile
+- `ai-education.html` — AI and education
+- `articles.html` — Resources and articles
+- `contact.html` — Contact
+- `articles/` — Article pages
 
-```text
-.
-├── index.html
-├── about.html
-├── styles.css
-├── assets/
-│   └── rayco-leon-erasmus-france.png
-└── articles/
-    └── article pages
-```
+## Copyright notice
 
+The source code and content in this repository are the property of Rayco Leon unless otherwise stated. No part of this project may be copied, modified, redistributed or reused without prior written permission.

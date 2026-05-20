@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" role="img" aria-label="Abstract advanced research illustration">
+  <rect width="1200" height="750" fill="#18212f"/>
+  <rect x="170" y="170" width="860" height="410" rx="26" fill="#f7f4ec"/>
+  <path d="M300 480h180V270h240v210h180" fill="none" stroke="#0f766e" stroke-width="34" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="300" cy="480" r="30" fill="#f2b84b"/>
+  <circle cx="600" cy="270" r="30" fill="#c2410c"/>
+  <circle cx="900" cy="480" r="30" fill="#0f766e"/>
+</svg>

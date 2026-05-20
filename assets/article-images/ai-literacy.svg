@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" role="img" aria-label="Abstract AI literacy in education illustration">
+  <rect width="1200" height="750" fill="#f7f4ec"/>
+  <rect x="210" y="160" width="780" height="430" rx="30" fill="#ffffff" stroke="#d7cdbb" stroke-width="8"/>
+  <path d="M430 435c60-130 280-130 340 0" fill="none" stroke="#0f766e" stroke-width="34" stroke-linecap="round"/>
+  <path d="M490 330h220M600 250v250" stroke="#253244" stroke-width="26" stroke-linecap="round"/>
+  <circle cx="430" cy="435" r="34" fill="#c2410c"/>
+  <circle cx="770" cy="435" r="34" fill="#f2b84b"/>
+</svg>
